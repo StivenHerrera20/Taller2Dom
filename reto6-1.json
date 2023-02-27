@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "Japon",
+    "tamaño": "377.973 km²"
+  },
+  {
+    "id": 2,
+    "nombre": "China",
+    "tamaño": "9,597 millones km²"
+  },
+  {
+    "id": 3,
+    "nombre": "Colombia",
+    "tamaño": "1,139 millones km²"
+  },
+  {
+    "id": 4,
+    "nombre": "Brasil",
+    "tamaño": "8,516 millones km²"
+  },
+  {
+    "id": 5,
+    "nombre": "Nigeria",
+    "tamaño": "923.768 km²"
+  },
+  {
+    "id": 6,
+    "nombre": "Marruecos",
+    "tamaño": "710.850 km²"
+  },
+  {
+    "id": 7,
+    "nombre": "Alemania",
+    "tamaño": "357.588 km²"
+  },
+  {
+    "id": 8,
+    "nombre": "Italia",
+    "tamaño": "302.073 km²"
+  },
+  {
+    "id": 9,
+    "nombre": "Australia",
+    "tamaño": "7,688 millones km²"
+  },
+  {
+    "id": 10,
+    "nombre": "Nueva Zelanda",
+    "tamaño": "268.021 km²"
+  }
+]

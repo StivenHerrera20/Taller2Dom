@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "bruno",
+    "genero": "macho",
+    "color": "negro",
+    "tipo": "perro",
+    "fechaNace": "21/02/2020"
+  },
+  {
+    "nombre": "luna",
+    "genero": "hembra",
+    "color": "blanco-negro",
+    "tipo": "gato",
+    "fechaNace": "11/05/2019"
+  },
+  {
+    "nombre": "pirlo",
+    "genero": "macho",
+    "color": "verde",
+    "tipo": "serpiente",
+    "fechaNace": "05/10/2021"
+  },
+  {
+    "nombre": "garfiel",
+    "genero": "macho",
+    "color": "naranja",
+    "tipo": "gato",
+    "fechaNace": "08/08/2019"
+  },
+  {
+    "nombre": "Ryan",
+    "genero": "macho",
+    "color": "cafe",
+    "tipo": "perro",
+    "fechaNace": "20/05/2020"
+  }
+]
